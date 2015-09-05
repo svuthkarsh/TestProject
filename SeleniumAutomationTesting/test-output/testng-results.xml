@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36354" started-at="2015-09-03T13:22:43Z" finished-at="2015-09-03T13:23:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36354" started-at="2015-09-03T13:22:43Z" finished-at="2015-09-03T13:23:19Z">
+      <class name="com.training.webdrivertest.MonsterTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.webdrivertest.MonsterTest@9c9116]" name="setUp" is-config="true" duration-ms="35414" started-at="2015-09-03T18:52:43Z" finished-at="2015-09-03T18:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FooterLinks()[pri:0, instance:com.training.webdrivertest.MonsterTest@9c9116]" name="FooterLinks" duration-ms="554" started-at="2015-09-03T18:53:18Z" finished-at="2015-09-03T18:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FooterLinks -->
+        <test-method status="PASS" signature="HomePageTest()[pri:0, instance:com.training.webdrivertest.MonsterTest@9c9116]" name="HomePageTest" duration-ms="357" started-at="2015-09-03T18:53:19Z" finished-at="2015-09-03T18:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+      </class> <!-- com.training.webdrivertest.MonsterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

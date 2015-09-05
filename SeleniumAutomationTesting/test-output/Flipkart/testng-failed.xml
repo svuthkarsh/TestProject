@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Flipkart]">
+  <test name="FlipkartTest(failed)">
+    <classes>
+      <class name="com.training.webdrivertestbcs.FlipkartToVerifyHomePageSubMenus_FPD_02">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.training.webdrivertestbcs.FlipkartToVerifyHomePageSubMenus_FPD_02 -->
+      <class name="com.training.webdrivertestbcs.FlipkartHomePageSubMenus">
+        <methods>
+          <include name="setUp"/>
+          <include name="flipkartHome"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.training.webdrivertestbcs.FlipkartHomePageSubMenus -->
+    </classes>
+  </test> <!-- FlipkartTest(failed) -->
+</suite> <!-- Failed suite [Flipkart] -->

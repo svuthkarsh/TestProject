@@ -1,0 +1,11 @@
+<suite name="Sanity"> 
+<test name="sanityTest">
+<classes>
+<class name="com.training.webdrivertestbcs.searchAutomation">
+<class name="com.training.webdrivertestbcs.snapDeal">
+</class>
+</class>
+</classes>
+</test>
+</suite>
+ 

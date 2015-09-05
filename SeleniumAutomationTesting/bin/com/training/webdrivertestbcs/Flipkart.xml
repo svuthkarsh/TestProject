@@ -1,0 +1,10 @@
+<suite name="Flipkart"> 
+<test name="FlipkartTest">
+<classes>
+<class name="com.training.webdrivertestbcs.FlipkartHomePageSubMenus">
+</class>
+<class name="com.training.webdrivertestbcs.FlipkartToVerifyHomePageSubMenus_FPD_02">
+</class>
+</classes>
+</test>
+</suite>

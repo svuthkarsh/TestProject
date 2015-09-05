@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sanity]">
+  <test name="sanityTest(failed)">
+    <classes>
+      <class name="com.training.webdrivertestbcs.searchAutomation">
+        <methods>
+          <include name="searchbylocation"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.training.webdrivertestbcs.searchAutomation -->
+    </classes>
+  </test> <!-- sanityTest(failed) -->
+</suite> <!-- Failed suite [Sanity] -->
